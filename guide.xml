@@ -4,4 +4,9 @@
     <display-name lang="pt">AMC</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <icon src="../canais/1590279560.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
 </tv>
